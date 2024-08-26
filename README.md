@@ -5,3 +5,13 @@ DIY Robot Base Kit for Molten ROX 2024 and Other Mobile Robot Creations as Open 
 
 （免責：本ロボットキットは個人ロボット開発者 田中章愛 @akichika の個人的な創作であり、いかなる企業の知財とも関連していません。利用は本リポジトリのLICENSEに沿ってお願いします。）
 （謝辞：開発にあたっては「CoderDojo武蔵小杉　つくばチャレンジチーム」の知見やROX参加者のフィードバックを頂きました。心から感謝いたします。）
+
+# ROX-Robot-Base-Kitとは
+
+# チュートリアル
+## ハードウェアの準備・組み立て
+
+## ファームウェアの書き込み
+
+## 起動・動作
+
